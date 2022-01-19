@@ -1,0 +1,15 @@
+
+{
+    "traditional_industry_data": [
+        { "name": "Traditional Financial Markets", "revenue-data": "2764828661977" },
+        { "name": "Auditing Markets/Legal Contracts/Copyrights/NFTs", "revenue-data": "2000000000000" },
+        { "name": "Insurance", "revenue-data": "2764828661977" },
+        { "name": "Bonds", "revenue-data": "119000000000000" },
+        { "name": "Derivatives", "revenue-data": "1000000000000000" },
+        { "name": "Circulating Currencies M1", "revenue-data": "35500000000000" },
+        { "name": "Currencies in Savings M2", "revenue-data": "60500000000000" },
+        { "name": "Stocks", "revenue-data": "89500000000000" },
+        { "name": "Real Estate", "revenue-data": "280600000000000" }
+    ]
+}
+
